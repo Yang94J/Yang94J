@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yang94j&show_icons=true&locale=en&layout=compact" alt="yang94j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yang94j&show_icons=true&locale=en" alt="yang94j" /></p>
+![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang94J&count_private=true)
